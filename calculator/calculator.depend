@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1637828369 source:c:\users\Администратор\documents\calc\calculator\main.cpp
+	"clc24.ru.h"
+	<iostream>
+
+1637821368 source:c:\users\Администратор\documents\calc\calculator\security.cpp
+	"clc24.ru.h"
+
+1637828385 c:\users\Администратор\documents\calc\calculator\clc24.ru.h
+	<iostream>
+	<string>
+
+1637832026 source:c:\users\Администратор\documents\calc\calculator\logo_podpis.cpp
+	"clc24.ru.h"
+
+1637828357 source:c:\users\Администратор\documents\calc\calculator\calc_vivod.cpp
+	"clc24.ru.h"
+
